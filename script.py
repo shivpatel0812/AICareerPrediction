@@ -5,7 +5,7 @@ from pathlib import Path
 from langchain_core.output_parsers.json import JsonOutputParser
 from mimetypes import guess_type
 
-openai.api_key = "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"
+openai.api_key = ""
 model_name = "gpt-4o"
 
 class Node:
